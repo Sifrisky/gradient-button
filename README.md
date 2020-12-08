@@ -1,9 +1,9 @@
 
 # Buttons
 
-I was practicing with gradients!
+Gradient-color!
 
-![](screenshot.jpeg)
+![](docs/screenshot.jpeg)
 
 Hope you like.
 
