@@ -1,7 +1,7 @@
 
 # Buttons
 
-I was practicing with gradients!
+gradient color!
 
 ![](docs/screenshot.jpeg)
 Hope you like.
