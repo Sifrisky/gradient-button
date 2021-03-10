@@ -1,10 +1,15 @@
 
-# Buttons
+# Buttons. Gradient - colors!!
 
-Gradient-color!
+see deployment [gradient-buttons](https://sifrisky.github.io/gradient-button/)
+
+Made with HTML and CSS. Hope you like! 🙌 
+
+# Preview 
 
 ![](docs/screenshot.jpeg)
 
-Hope you like.
+Made with a lots of 💖 
 
-see deployment [gradient-buttons](https://sifrisky.github.io/gradient-button/)
+
+
